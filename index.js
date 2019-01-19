@@ -1,4 +1,4 @@
-function withGracefulShutdown(server, options) {
+function withGracefulShutdown(server, options = {}) {
   const {
     logger = console,
     forceTimeout = 60 * 1000 // time in milliseconds allowed for the app to shut down gracefully
