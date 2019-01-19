@@ -1,0 +1,6 @@
+.git
+.gitignore
+.eslintrc
+node_modules
+src
+README.md

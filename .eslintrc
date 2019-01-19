@@ -1,0 +1,21 @@
+{
+  "extends": "eslint:recommended",
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2017
+  },
+  "rules": {
+    "semi": 1,
+    "eqeqeq": 1,
+    "no-console": 0,
+    "prefer-const": 2,
+    "object-curly-spacing": [1, "always"],
+    "no-unused-vars": ["error", { "vars": "all", "args": "after-used" }]
+  },
+  "globals": {
+    "rootRequire": true
+  }
+}
