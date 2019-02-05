@@ -11,12 +11,12 @@ Based on ideas from:
 
 ## Installation
 
-`npm install @azangru/with-express-graceful-shutdown --save`
+`npm install @bookmate/with-express-graceful-shutdown --save`
 
 ## Usage
 
 ```javascript
-const withGracefulShutdown = require('@azangru/with-express-graceful-shutdown');
+const withGracefulShutdown = require('@bookmate/with-express-graceful-shutdown');
 const app = require('./app'); // a regular Express app
 const logger = require('./logger') // a custom logger
 

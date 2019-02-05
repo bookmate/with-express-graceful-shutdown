@@ -1,5 +1,5 @@
 {
-  "name": "@azangru/with-express-graceful-shutdown",
+  "name": "@bookmate/with-express-graceful-shutdown",
   "version": "0.0.2",
   "description": "Decorator for Express apps to enable graceful shutdown",
   "main": "index.js",
