@@ -1,6 +1,6 @@
 {
   "name": "@bookmate/with-express-graceful-shutdown",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Decorator for Express apps to enable graceful shutdown",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azangru/with-express-graceful-shutdown.git"
+    "url": "git+https://github.com/bookmate/with-express-graceful-shutdown.git"
   },
   "keywords": [],
   "author": "",
